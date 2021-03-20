@@ -3,6 +3,8 @@ A procedural map generation in OpenCV for Risk-like tabletop games.
 
 I developed this program to learn different algorithms as I thought of what it was going to be.
 
+![](demo.gif)
+
 ## Summary of the methods used
 This implementation for procedural political map uses:
 
